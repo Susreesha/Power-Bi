@@ -1,0 +1,7 @@
+echo "# Power-Bi" >> README.md
+git init
+git add README.md
+git commit -m "Power Bi"
+git branch -M main
+git remote add origin https://github.com/Susreesha/Power-Bi.git
+git push -u origin main
